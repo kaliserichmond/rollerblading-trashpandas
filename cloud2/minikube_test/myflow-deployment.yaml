@@ -50,14 +50,14 @@ infrastructure:
 flow_name: myflow
 manifest_path: null
 storage:
-  repository: https://github.com/kaliserichmond/prefect-support/tree/main/cloud2/minikube_test
-  reference: bianca
+  repository: https://github.com/kaliserichmond/rollerblading-trashpandas.git
+  reference: main
   _block_document_id: c4c9499b-d269-466a-82f1-41adefb67304
   _block_document_name: minikube-github-block
   _is_anonymous: false
   block_type_slug: github
   _block_type_slug: github
-path: ''
+path: 'cloud2/minikube_test/'
 entrypoint: minikube-hello.py:myflow
 parameter_openapi_schema:
   title: Parameters
