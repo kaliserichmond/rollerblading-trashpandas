@@ -1,13 +1,17 @@
 
-## Tutorials
+# Tutorials
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/
 
 - https://www.youtube.com/watch?v=E2pP1MOfo3g
 
-### Discourse / Linen
+## Discourse / Linen
 - what are the most common errors or the most recents errors users are running into? 
 - What are the more edge cases users are trying to do with Prefect and Kubernetes? 
 - https://discourse.prefect.io/tag/kubernetes
+
+## Task
+- spin up minikube locally or kubernetes cluster somewhere (https://www.linode.com/ is another option)
+- run a flow on minikube with github storage and kuberenetes infrastructure 
 
 ## Running locally with minikube
 https://minikube.sigs.k8s.io/docs/start/
